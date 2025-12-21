@@ -93,6 +93,7 @@ const ProfessionalProfilePage = () => {
         </button>
       </form>
     </div>
+    
   );
 };
 
