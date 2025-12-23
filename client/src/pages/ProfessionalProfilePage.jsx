@@ -93,10 +93,10 @@ const ProfessionalProfilePage = () => {
         </button>
       </form>
     </div>
-
+         
   );
 
-  
+
 };
 
 export default ProfessionalProfilePage;
