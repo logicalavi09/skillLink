@@ -88,6 +88,7 @@ const ProfessionalProfilePage = () => {
           rows="3"
         />
 
+
         <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded">
           Save Profile
         </button>
