@@ -100,4 +100,5 @@ const ProfessionalProfilePage = () => {
 
 };
 
+
 export default ProfessionalProfilePage;
